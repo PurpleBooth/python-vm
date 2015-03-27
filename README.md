@@ -1,12 +1,8 @@
 # Getting started
 
-First ensure vagrant and virtualbox are installed.
+These instructions will work on OS X, Windows, and Linux
 
-You'll need the hosts updater plugin.
-
-```bash
-vagrant plugin install vagrant-hostsupdater
-```
+First ensure [vagrant](https://www.vagrantup.com/) and [virtualbox](https://www.virtualbox.org/) are installed.
 
 Then start the python vm with
 
